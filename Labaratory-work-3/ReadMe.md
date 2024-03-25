@@ -38,3 +38,36 @@
 ![image](https://github.com/MaksymPetrov123/WebAR-Example/blob/Labaratory-work-3/Labaratory-work-3/2.2.5.jpg)
 
 Рис. 7 - Фрагмент екрану з рішенням завдання 2.2.5 " Повернутися до каталогу, використовуючи команду швидкого повернення."
+
+### «2.3 Налаштування псевдонімів команд оболонки Bash
+
+![image](https://github.com/MaksymPetrov123/WebAR-Example/blob/Labaratory-work-3/Labaratory-work-3/сохранить%202.3.1.jpg)
+
+Рис. 8 - Фрагмент екрану з рішенням завдання 2.3.1 "Виконати команду зі створення псевдоніму виклику команди, пов’язаною з Bash
+командою у відповідності з таблицею 4. Перевірити роботу псевдоніму команди."
+
+![image](https://github.com/MaksymPetrov123/WebAR-Example/blob/Labaratory-work-3/Labaratory-work-3/2.3.2.jpg)
+
+Рис. 9 - Фрагмент екрану з рішенням завдання 2.3.2 "Виконати команду зі створення псевдоніму виклику команди, яка буде надавати
+поточну дату лише із поточним днем, місяцем та роком."
+
+![image](https://github.com/MaksymPetrov123/WebAR-Example/blob/Labaratory-work-3/Labaratory-work-3/2.3.3.jpg)
+
+Рис. 10 - Фрагмент екрану з рішенням завдання 2.3.3 "Перейти до домашнього каталогу вашого користувача. Використовуючи
+текстовий редактор, наприклад, nano, розпочати редагування файлу .bash_profile та додати у
+файл два рядки зі створеними раніше псевдонімами виклику команд."
+
+![image](https://github.com/MaksymPetrov123/WebAR-Example/blob/Labaratory-work-3/Labaratory-work-3/2.3.4.jpg)
+
+Рис. 11 - Фрагмент екрану з рішенням завдання 2.3.4 "Завершити роботу з GitBash-оболонкою через команду exit"
+
+![image](https://github.com/MaksymPetrov123/WebAR-Example/blob/Labaratory-work-3/Labaratory-work-3/2.3.5.jpg)
+
+Рис. 12 - Фрагмент екрану з рішенням завдання 2.3.5 "Повторно запустити GitBash-оболонку та перевірити роботу одного зі створених
+псевдонімів команд, щоб підтвердити їх автоматичну реєстрацію через файл .bash_profile"
+
+![image](https://github.com/MaksymPetrov123/WebAR-Example/blob/Labaratory-work-3/Labaratory-work-3/2.3.6.jpg)
+
+Рис. 13 - Фрагмент екрану з рішенням завдання 2.3.6 "Скопіювати файл .bash_profile до каталогу «Laboratory-work-3» Git-репозиторію"
+
+
